@@ -1,16 +1,16 @@
-# Neglected Tropical Diseases
+# VPD
 
 ## Release Note
 
-- [Release Note](#ntd-agg-release-note)
+- [Release Note](#vpd_paho-release-note)
 
 ## Design
 
-- [Version 1.0.0](#ntd-agg-design)
+- [Version 1.0.0](#vpd_paho-design)
 
 ## Installation
 
-- [Installation Guide](#ntd-agg-installation)
+- [Installation Guide](#vpd_paho-installation)
 
 ## Metadata Reference
 
