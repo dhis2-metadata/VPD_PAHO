@@ -188,7 +188,7 @@ functional.
 ### Sharing
 
 First, you will have to use the _Sharing_ functionality of DHIS2 to configure which users (user groups) should see the
-metadata and data associated with the programme as well as who can register/enter data into the program. By default,
+metadata and data associated with the programms as well as who can register/enter data into the program. By default,
 sharing has been configured for the following:
 
 * Tracked entity type
@@ -235,8 +235,8 @@ roles.
 
 ### Organisation unit assignment
 
-You must assign the program to organisation units within your own hierarchy in order to be able to see the program in
-tracker capture.
+You must assign the programs and datasets to organisation units within existing hierarchy in order to be accessible via capture
+apps.
 
 ### Duplicated metadata
 
